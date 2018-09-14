@@ -1,0 +1,11 @@
+redux
+
+redux-promise
+
+react-redux
+
+react-sparklines
+
+axios
+
+loadsh
