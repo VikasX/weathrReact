@@ -24,33 +24,33 @@ const SideDrawer = (props) => {
             onClose={()=> props.onClose(false)}
         >
             <List component="nav">
-                <ListItem button onClick={(windows)=>  window.location.href = "http://192.168.0.198"}>
+                <ListItem button onClick={(windows)=>  window.location.href = "http://elit-vitae.co.in"}>
                     HOME
                 </ListItem>
 
-                <ListItem button onClick={(windows)=>  window.location.href = "http://192.168.0.198/#/health"}>
+                <ListItem button onClick={(windows)=>  window.location.href = "http://elit-vitae.co.in/#/health"}>
                     HEALTH
                 </ListItem>
 
-                <ListItem button onClick={(windows)=>  window.location.href = "http://192.168.0.198/#/techblog"}>
+                <ListItem button onClick={(windows)=>  window.location.href = "http://elit-vitae.co.in/#/techblog"}>
                     TECHNOLOGY
                 </ListItem>
 
-                <ListItem button onClick={(windows)=>  window.location.href = "http://192.168.0.198/#/lifehack"}>
+                <ListItem button onClick={(windows)=>  window.location.href = "http://elit-vitae.co.in/#/lifehack"}>
                     LIFESTYLE
                 </ListItem>
 
-                <ListItem button onClick={(windows)=>  window.location.href = "http://192.168.0.198/#/food"}>
+                <ListItem button onClick={(windows)=>  window.location.href = "http://elit-vitae.co.in/#/food"}>
                     FOOD
                 </ListItem>
 
 
-                <ListItem button onClick={(windows)=>  window.location.href = "http://192.168.0.198/#/about"}>
+                <ListItem button onClick={(windows)=>  window.location.href = "http://elit-vitae.co.in/#/about"}>
                     ABOUT
                 </ListItem>
 
 
-                <ListItem button onClick={(windows)=>  window.location.href = "http://192.168.0.198/#/contact"}>
+                <ListItem button onClick={(windows)=>  window.location.href = "http://elit-vitae.co.in/#/contact"}>
                     CONTACT
                 </ListItem>
 
