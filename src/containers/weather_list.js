@@ -38,7 +38,7 @@ console.log(temps);
         <thead>
           <tr >
             <th>City</th>
-            <th>Temperature (K)</th>
+            <th>Temperature (&#8451;)</th>
             <th>Pressure (hPa)</th>
             <th>Humidity (%)</th>
           </tr>
