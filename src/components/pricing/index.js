@@ -39,7 +39,7 @@ articles: [
 "pic": "/static/media/app_main.31525097.jpg",
 "date": "20 Jan 2016",
 "page": "lifehack/5app.html",
-"href": "http://elit-vitae.co.in/#/article/show/59aeac7e734d1d25a0f6f006"
+"href": "http://www.elit-vitae.co.in/#/article/show/59aeac7e734d1d25a0f6f006"
 },
 {
 "_id": "59b2fd16734d1d2c1613de7c",
@@ -51,7 +51,7 @@ articles: [
 "pic": "/static/media/lightpack.d1877a91.jpg",
 "date": "12 May 2016",
 "page": "lifehack/lightpack.html",
-"href": "http://elit-vitae.co.in/#/article/show/59b2fd16734d1d2c1613de7c"
+"href": "http://www.elit-vitae.co.in/#/article/show/59b2fd16734d1d2c1613de7c"
 
 },
 {
@@ -64,7 +64,7 @@ articles: [
 "pic": "/static/media/game2.2ead534b.jpg",
 "date": "25 May 2015",
 "page": "techblog/5game.html",
-"href": "http://elit-vitae.co.in/#/article/show/59aeacaf734d1d25a0f6f03e"
+"href": "http://www.elit-vitae.co.in/#/article/show/59aeacaf734d1d25a0f6f03e"
 
 },
 {
@@ -77,7 +77,7 @@ articles: [
 "pic": "/static/media/fatbelly.5f1f4c2a.jpg",
 "date": "03 Mar 2017",
 "page": "health/fatbelly.html",
-"href": "http://elit-vitae.co.in/#/article/show/59b7e094f36d284a7e7bc518"
+"href": "http://www.elit-vitae.co.in/#/article/show/59b7e094f36d284a7e7bc518"
 
 },
 {
@@ -90,7 +90,7 @@ articles: [
 "pic": "/static/media/brkfst.8c72b8d3.jpg",
 "date": "03 July 2016",
 "page": "food/brkfst.html",
-"href": "http://elit-vitae.co.in/#/article/show/59b7e10cf36d284a7e7bc545"
+"href": "http://www.elit-vitae.co.in/#/article/show/59b7e10cf36d284a7e7bc545"
 },
 {
 "_id": "59b7e181f36d284a7e7bc5af",
@@ -102,7 +102,7 @@ articles: [
 "pic": "/static/media/flat_belly_food.bc190c57.jpeg",
 "date": "09 Aug 2017",
 "page": "food/flat_belly_food.html",
-"href": "http://elit-vitae.co.in/#/article/show/59b7e181f36d284a7e7bc5af"
+"href": "http://www.elit-vitae.co.in/#/article/show/59b7e181f36d284a7e7bc5af"
 
 },
 
@@ -118,7 +118,7 @@ articles: [
 "pic":  "/static/media/hdd_main.60edc634.jpg",
 "date": "17 June 2016",
 "page": "techblog/hdd.html",
-"href": "http://elit-vitae.co.in/#/article/show/59b442d9f36d2860f7d4f8a0"
+"href": "http://www.elit-vitae.co.in/#/article/show/59b442d9f36d2860f7d4f8a0"
 
 },
 {
@@ -131,7 +131,7 @@ articles: [
 "pic": "/static/media/gdrive.5743bf09.jpg",
 "date": "19 Aug 2016",
 "page": "techblog/gdrive.html",
-"href": "http://elit-vitae.co.in/#/article/show/59b44341f36d2860f7d4f8f1"
+"href": "http://www.elit-vitae.co.in/#/article/show/59b44341f36d2860f7d4f8f1"
 
 },
 {
@@ -144,7 +144,7 @@ articles: [
 "pic": "/static/media/logon.30219c8c.jpg",
 "date": "19 Oct 2015",
 "page": "techblog/logon.html",
-"href": "http://elit-vitae.co.in/#/article/show/59b446e0f36d2860f7d4f92c"
+"href": "http://www.elit-vitae.co.in/#/article/show/59b446e0f36d2860f7d4f92c"
 
 },
 {
@@ -157,13 +157,12 @@ articles: [
 "pic": "/static/media/cycle.97ac914b.jpeg",
 "date": "23 Apr 2017",
 "page": "health/cycle.html",
-"href": "http://elit-vitae.co.in/#/article/show/59b7e021f36d284a7e7bc4f4"
+"href": "http://www.elit-vitae.co.in/#/article/show/59b7e021f36d284a7e7bc4f4"
 
 }
 
 ]
 }
-
 
 
     showBoxes = () => (
