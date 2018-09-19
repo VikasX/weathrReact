@@ -51,7 +51,7 @@ class Header extends Component {
             >
                 <Toolbar>
 
-                    <div onClick={(windows)=>  window.location.href = "http://elit-vitae.co.in"} className="header_logo">
+                    <div onClick={(windows)=>  window.location.href = "http://www.elit-vitae.co.in"} className="header_logo">
                         <div className="font_righteous header_logo_venue">Elit-Vitae</div>
                           <CityLogo 
                                 link={true}
